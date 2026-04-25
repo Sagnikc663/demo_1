@@ -6,7 +6,7 @@ Hey there! 👋 Welcome to **Demo 1**, a simple Flutter app that shows the items
 
 - ✨ Clean and simple watchlist interface
 - 📱 Cross Platform implementation, thanks to flutter.
-- 🛠️ Easy to manage code architecture by using Flutter BLoC and CLean Code Architecture.
+- 🛠️ Easy to manage code using CLean Code Architecture, and state management using Flutter BLoC.
 
 ## Getting Started
 
